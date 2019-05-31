@@ -7,8 +7,5 @@ class App < Sinatra::Base
   end
 
   # Add your post route and action below
-   <form>
-      <p>Your name: <input type="text" name="name"</p>
-      <p>Your favorite Food: <input type="text" name="favorite_food"</p>
-    </form>
+   
 end
